@@ -1,0 +1,21 @@
+{
+  "name": "image-search-xiaoluo",
+  "version": "0.0.1",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.4",
+    "xmlhttprequest": "^1.8.0",
+    "mongodb": "^2.2.31"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "header",
+    "parser"
+  ]
+}
