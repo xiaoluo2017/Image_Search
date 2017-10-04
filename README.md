@@ -15,7 +15,7 @@ Image search abstraction layer
 
 # Screenshot
 * image search<br>
-<img height="800" img src="https://github.com/xiaoluo2017/Image_Search/blob/master/images/image_search.PNG">
+<img src="https://github.com/xiaoluo2017/Image_Search/blob/master/images/image_search.PNG">
 
 * latest<br>
 <img height="500" img src="https://github.com/xiaoluo2017/Image_Search/blob/master/images/latest.PNG">
